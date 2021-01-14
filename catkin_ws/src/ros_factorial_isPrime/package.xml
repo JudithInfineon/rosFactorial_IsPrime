@@ -3,7 +3,7 @@
   <name>ros_factorial_isprime</name>
   <version>0.0.1</version>
   <description>The ros_factorial_isprime package</description>
-  <maintainer email="Yi.Ju@infineon.com">Yang Wu</maintainer>
+  <maintainer email="Yi.Ju@infineon.com">Yi Ju</maintainer>
   <license>TODO</license>
 
   <!-- The *depend tags are used to specify dependencies -->
